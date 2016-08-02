@@ -157,4 +157,14 @@
       "product": [ "FAIRPHONE" ]
     }
   }
+],
+{
+  "payload": {
+    "buildid": "LVY48I",
+    "isSupported": false,
+    "model": "GT-S6802",
+    "bootloader": "s1",
+    "manufacturer": "Samsung"
+  }, [...]
+}
 ]
